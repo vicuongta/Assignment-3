@@ -1,4 +1,4 @@
-### Assignment 3 Manual
+### Blockchain Manual
 Run the program by the command:
     python3 peer.py [HOST_NAME] [HOST_PORT] [MY_PORT]
 where:
