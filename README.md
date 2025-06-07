@@ -1,6 +1,6 @@
 # 🧱 Blockchain Peer Network Manual
 
-## 📌 Running the Program
+## 📌 Running the Program on Terminal with connection to UoM aviary
 
 To start a peer in the blockchain network, use the following command:
 
